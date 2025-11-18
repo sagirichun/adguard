@@ -4,3 +4,7 @@
 ||events3alt.adcolony.com^
 ||wd.adcolony.com^
 ||mouseflow.com^
+||rubiconproject.com^
+||s.youtube.com^
+||redirector.googlevideo.com^
+||youtubei.googleapis.com^

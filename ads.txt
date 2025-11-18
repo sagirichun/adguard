@@ -1,0 +1,6 @@
+||pagead2.googlesyndication.com^
+||pagead2.googleadservices.com^
+||ads30.adcolony.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
+||mouseflow.com^
